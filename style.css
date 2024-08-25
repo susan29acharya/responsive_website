@@ -117,19 +117,20 @@ html,body{
     .left{
         height: 45%;
         width: 100%;
-        padding: 5vw 3vw;
+        padding: 7vh 3vw;
+
     }
     .left h1{
-        font-size: 8vw;
-        line-height: 7vw;
-        padding-bottom: 4vw;
+        font-size: 9vw;
+        line-height: 4vh;
+        padding-bottom: 4vh;
     }
     .left p{
-        font-size: 2.2vw;
-        padding-bottom: 3vw;
+        font-size: 2.7vw;
+        padding-bottom: 7vh;
     }
     .left button{
-        height: 6vw;
+        height: 4vh;
         font-size: 2.8vw;
         border-radius: 3px;
         font-weight: 600;

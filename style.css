@@ -51,7 +51,7 @@ html,body{
     font-weight: 600;
 }
 .left h1 span{
-    color: #f9004d;
+    color: #FF735C;
 }
 .left p{
     width: 90%;
@@ -64,7 +64,7 @@ html,body{
 .left button{
     height: 3vw;
     width: 20%;
-    background-color: #f9004d;
+    background-color: #E95A49;
     border: none;
     color: white;
     font-weight: 600;
@@ -85,7 +85,7 @@ html,body{
 
 
 
-@media (max-width:700px) {
+@media (max-width:600px) {
     .nav{
         height: 50px;
         width: 100%;
@@ -127,10 +127,10 @@ html,body{
     }
     .left p{
         font-size: 2.7vw;
-        padding-bottom: 7vh;
     }
     .left button{
         height: 4vh;
+        margin-top: 3vh;
         font-size: 2.8vw;
         border-radius: 3px;
         font-weight: 600;
